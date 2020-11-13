@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "is-empty": "^1.2.0",
+    "prompt": "^1.0.0",
+    "prompt-sync": "^4.2.0",
+    "string-builder": "^0.1.7"
+  }
+}
